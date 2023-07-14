@@ -6,14 +6,17 @@
 
 - 🌱 I’m currently learning **JavaScript , Ai , cyperSecurity**
 
-- 👯 I’m looking to collaborate on **ACPC**
-
 - 👨‍💻 All of my projects are available at [https://www.ahmedsameh.tech/](https://www.ahmedsameh.tech/)
 
 - 📫 How to reach me **contact@ahmedsameh.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/https://app.daily.dev/ahmedfox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://app.daily.dev/ahmedfox" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ahmed-sameh-6ab5a7276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ahmed-sameh-6ab5a7276" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ii.hack.you.ii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ii.hack.you.ii/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ahmedsameh_0_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ahmedsameh_0_/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@ahmed_sameh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ahmed_sameh1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
